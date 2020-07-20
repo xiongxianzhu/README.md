@@ -27,7 +27,7 @@ This is me, a post-90s Cancer program developer.
 **My Blog**： [zhuxiongxian's blog](https://www.zhuxiongxian.cc)
 
 **QQ**： MzUyNzZlYTY4MTNkNGUxMzgxZmQ5YjY0NzhmZGYxZDk=
-> Two algorithms are encrypted successively, you know
+> Encrypted using two algorithms, you know
 
 **Email**： <i@zhuxiongxian.com> or <zhuxiongxian@gmail.com>
 
