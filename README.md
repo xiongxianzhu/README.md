@@ -1,4 +1,4 @@
-# Hi, I'm xiongxiongzhu
+# Hi, I'm xiongxiongzhu 👋 💻
 
 I am a software engineer who is passionate about making open source code more accessible, creating technologies that improve people's standards, and building communities.
 
@@ -20,7 +20,7 @@ A guy with a geek complex, pursuing relative spiritual freedom, a bit lazy in li
 
 This is me, a post-90s Cancer program developer.
 
-## Find me around the web
+## Find me around the web 🌎
 
 **My Blog**： [zhuxiongxian's blog](https://www.zhuxiongxian.cc)
 
