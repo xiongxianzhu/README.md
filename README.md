@@ -1,5 +1,9 @@
 # Hi, I'm xiongxiongzhu 👋 💻
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true)](https://github.com/lanyulei)
+
+## Profile
+
 <img src="http://qiniu.zhuxiongxian.com/bg000001.jpg" alt="banner">
 
 I am a software engineer who is passionate about making open source code more accessible, creating technologies that improve people's standards, and building communities.
