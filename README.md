@@ -2,7 +2,7 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&hide_border=true&locale=en&title_color=00e3ff&icon_color=e91e63&text_color=ff5722&bg_color=212121)](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&hide_border=true&locale=en&title_color=00e3ff&icon_color=e91e63&text_color=ff5722&bg_color=212121)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&hide=php&show_icons=true&count_private=true&hide_border=true&locale=en&title_color=00e3ff&icon_color=e91e63&text_color=ff5722&bg_color=212121)](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&hide=php&show_icons=true&count_private=true&hide_border=true&locale=en&title_color=00e3ff&icon_color=e91e63&text_color=ff5722&bg_color=212121)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&layout=compact&hide=php&show_icons=true&count_private=true&hide_border=true&locale=en&title_color=00e3ff&icon_color=e91e63&text_color=ff5722&bg_color=212121)](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&layout=compact&hide=php&show_icons=true&count_private=true&hide_border=true&locale=en&title_color=00e3ff&icon_color=e91e63&text_color=ff5722&bg_color=212121)
 
 
 ## Profile
