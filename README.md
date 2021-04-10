@@ -28,14 +28,14 @@ This is me, a post-90s Cancer program developer.
 
 ## Find me around the web 🌎
 
-**My Blog**： [zhuxiongxian's blog](https://www.zhuxiongxian.cc)
+**My Blog**： [xx's blog](https://zhuxiongxian.cc)
 
 **QQ**： MzUyNzZlYTY4MTNkNGUxMzgxZmQ5YjY0NzhmZGYxZDk=
 > Encrypted using two algorithms, you know
 
 **Email**： <i@zhuxiongxian.com> or <zhuxiongxian@gmail.com>
 
-**CSDN's Blog**：[zhuxiongxian的csdn blog](http://blog.csdn.net/Cryhelyxx "zhuxiongxian的csdn blog")
+**CSDN's Blog**：[zhuxiongxian的csdn blog](http://xxcoding.blog.csdn.net "zhuxiongxian的csdn blog")
 
 **Github**： <https://github.com/xiongxianzhu>
 
@@ -46,3 +46,5 @@ This is me, a post-90s Cancer program developer.
 **Facebook**: [@zhuxiongxian](https://www.facebook.com/xiongxian.zhu)
 
 **Twitter**: [@zhuxiongxian](https://twitter.com/xiongxianzhu)
+
+**bilibili**: [@xxcoding](https://space.bilibili.com/200731874)
