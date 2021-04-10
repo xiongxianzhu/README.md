@@ -4,6 +4,10 @@
 
 [![hexo-theme-xxcoding](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=hexo-theme-xxcoding&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/xiongxianzhu/hexo-theme-xxcoding)
 [![qingmi](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=qingmi&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,73FA79,73FDFF,D783FF)](https://github.com/xiongxianzhu/qingmi)
+[![cookiecutter-flask](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=cookiecutter-flask&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/xiongxianzhu/cookiecutter-flask)
+[![cookiecutter-django](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=cookiecutter-django&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,73FA79,73FDFF,D783FF)](https://github.com/xiongxianzhu/cookiecutter-django)
+[![ExcelUtils](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=ExcelUtils&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/xiongxianzhu/ExcelUtils)
+[![code-style-guide](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=code-style-guide&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,73FA79,73FDFF,D783FF)](https://github.com/xiongxianzhu/code-style-guide)
 
 
 ## Profile
