@@ -57,3 +57,7 @@ This is me, a post-90s Cancer program developer.
 **Twitter**: [@zhuxiongxian](https://twitter.com/xiongxianzhu)
 
 **bilibili**: [@xxcoding](https://space.bilibili.com/200731874)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=xiongxianzhu&&style=flat-square" align="center" />
+</div>  
