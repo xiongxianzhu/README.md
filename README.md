@@ -1,6 +1,5 @@
-# Hi, I'm xiongxiongzhu 👋 💻
-
 <div align="center">
+<h1>Hi, I'm xiongxiongzhu 👋 💻</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Marck+Script'&pause=300&color=F7601E&center=true&width=435&lines=Hi%2C+I'm+zhuxiongxian.;Welcome+to+my+github!!!" alt="Typing SVG" /></a>
 </div>
 
