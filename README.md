@@ -1,6 +1,8 @@
 # Hi, I'm xiongxiongzhu 👋 💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Marck+Script'&pause=300&color=F7601E&center=true&width=435&lines=Hi%2C+I'm+zhuxiongxian.;Welcome+to+my+github!!!)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Marck+Script'&pause=300&color=F7601E&center=true&width=435&lines=Hi%2C+I'm+zhuxiongxian.;Welcome+to+my+github!!!" alt="Typing SVG" /></a>
+</div>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=cn&title_color=00E3FF&icon_color=e91e63&text_color=ff5722&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=cn&title_color=00E3FF&icon_color=e91e63&text_color=ff5722&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&layout=compact&hide=php&show_icons=true&count_private=true&hide_border=true&locale=cn&title_color=a00c39&icon_color=e91e63&text_color=ff5722&bg_color=0,73FA79,73FDFF,D783FF&card_width=445)](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&layout=compact&hide=php&show_icons=true&count_private=true&hide_border=true&locale=cn&title_color=a00c39&icon_color=e91e63&text_color=ff5722&bg_color=0,73FA79,73FDFF,D783FF&card_width=445)
 
