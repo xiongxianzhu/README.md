@@ -9,7 +9,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=xiongxianzhu&theme=xcode)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xiongxianzhu&theme=solarized-dark&hide_border=true&border_radius=0&locale=zh&fire=DD2727&ring=DD2384)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xiongxianzhu&theme=solarized-dark&hide_border=true&border_radius=0&locale=zh&fire=DD2727&ring=DD2BB9&date_format=[Y.]m.j)](https://git.io/streak-stats)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=cn&title_color=00E3FF&icon_color=e91e63&text_color=ff5722&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=cn&title_color=00E3FF&icon_color=e91e63&text_color=ff5722&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)
 <br>
