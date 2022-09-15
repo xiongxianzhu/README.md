@@ -48,6 +48,13 @@ A guy with a geek complex, pursuing relative spiritual freedom, a bit lazy in li
 
 This is me, a post-90s Cancer program developer.
 
+## Connect with me
+
+<p><a href="https://github.com/xiongxianzhu" target="_blank"><img src=https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white alt=github /></a> <a href="https://www.facebook.com/xiongxian.zhu" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=Facebook /></a> <a href="https://twitter.com/xiongxianzhu" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter /></a> <a href="http://weibo.com/929679459" target="_blank"><img src=https://img.shields.io/badge/Sina%20Weibo-%23E6162D.svg?&style=for-the-badge&logo=SinaWeibo&logoColor=white alt=Weibo /></a> <img src=https://img.shields.io/badge/WeChat-xxshwz-%23616161.svg?&style=for-the-badge&logo=WeChat&logoColor=white&labelColor=07C160 alt=WeChat />
+</p>
+
 ## Find me around the web 🌎
 
 **My Blog**： [xx's blog](https://zhuxiongxian.cc)
@@ -121,5 +128,5 @@ This is me, a post-90s Cancer program developer.
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
 
