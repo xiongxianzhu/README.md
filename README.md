@@ -2,8 +2,18 @@
 <h1>Hi, I'm xiongxiongzhu 👋 💻</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Marck+Script'&pause=300&color=F7601E&center=true&width=435&lines=Hi%2C+I'm+zhuxiongxian.;Welcome+to+my+github!!!" alt="Typing SVG" /></a>
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=xiongxianzhu&&style=for-the-badge&label=Visitors" align="center" />
+</div>
+<br>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=cn&title_color=00E3FF&icon_color=e91e63&text_color=ff5722&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=cn&title_color=00E3FF&icon_color=e91e63&text_color=ff5722&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&layout=compact&hide=php&show_icons=true&count_private=true&hide_border=true&locale=cn&title_color=a00c39&icon_color=e91e63&text_color=ff5722&bg_color=0,73FA79,73FDFF,D783FF&card_width=445)](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&layout=compact&hide=php&show_icons=true&count_private=true&hide_border=true&locale=cn&title_color=a00c39&icon_color=e91e63&text_color=ff5722&bg_color=0,73FA79,73FDFF,D783FF&card_width=445)
+![](https://activity-graph.herokuapp.com/graph?username=xiongxianzhu&theme=xcode)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xiongxianzhu&theme=solarized-dark&hide_border=true&border_radius=0&locale=zh)](https://git.io/streak-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=cn&title_color=00E3FF&icon_color=e91e63&text_color=ff5722&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=cn&title_color=00E3FF&icon_color=e91e63&text_color=ff5722&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&layout=compact&hide=php&show_icons=true&count_private=true&hide_border=true&locale=cn&title_color=a00c39&icon_color=e91e63&text_color=ff5722&bg_color=0,73FA79,73FDFF,D783FF&card_width=445)](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&layout=compact&hide=php&show_icons=true&count_private=true&hide_border=true&locale=cn&title_color=a00c39&icon_color=e91e63&text_color=ff5722&bg_color=0,73FA79,73FDFF,D783FF&card_width=445)
 
 
 [![hexo-theme-xxcoding](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=hexo-theme-xxcoding&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/xiongxianzhu/hexo-theme-xxcoding)
@@ -113,6 +123,3 @@ This is me, a post-90s Cancer program developer.
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=xiongxianzhu&&style=flat-square" align="center" />
-</div>  
