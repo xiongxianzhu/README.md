@@ -51,7 +51,7 @@ This is me, a post-90s Cancer program developer.
 ## Connect with me
 
 <p>
-<a href="https://zhuxiongxian.cc" target="_blank"><img src=https://img.shields.io/badge/BLOG-XX'S%20BLOG-%23616161.svg?&style=for-the-badge&logoColor=white&labelColor=d81b60 alt=Blog /></a>
+<a href="https://zhuxiongxian.cc" target="_blank"><img src=https://img.shields.io/badge/BLOG-XX'S%20BLOG-%23616161.svg?&style=for-the-badge&logoColor=white&labelColor=d81b60 alt="Blog" /></a>
 <a href="http://weibo.com/929679459" target="_blank"><img src=https://img.shields.io/badge/Sina%20Weibo-%23E6162D.svg?&style=for-the-badge&logo=SinaWeibo&logoColor=white alt=Weibo /></a>
 <a href="https://space.bilibili.com/200731874" target="_blank"><img src=https://img.shields.io/badge/Bilibili-%2300A1D6.svg?&style=for-the-badge&logo=Bilibili&logoColor=white alt=Bilibili /></a>
 <img src=https://img.shields.io/badge/WeChat-xxshwz-%23616161.svg?&style=for-the-badge&logo=WeChat&logoColor=white&labelColor=07C160 alt=WeChat />
@@ -60,7 +60,6 @@ This is me, a post-90s Cancer program developer.
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=Facebook /></a>
 <a href="https://twitter.com/xiongxianzhu" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter /></a>
-
 </p>
 
 ## Find me around the web 🌎
@@ -101,8 +100,6 @@ This is me, a post-90s Cancer program developer.
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
