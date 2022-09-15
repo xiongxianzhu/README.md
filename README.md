@@ -62,28 +62,6 @@ This is me, a post-90s Cancer program developer.
 <img src=https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter /></a>
 </p>
 
-## Find me around the web 🌎
-
-**My Blog**： [xx's blog](https://zhuxiongxian.cc)
-
-**QQ**： MzUyNzZlYTY4MTNkNGUxMzgxZmQ5YjY0NzhmZGYxZDk=
-> Encrypted using two algorithms, you know
-
-**Email**： <i@zhuxiongxian.com> or <zhuxiongxian@gmail.com>
-
-**CSDN's Blog**：[zhuxiongxian的csdn blog](http://xxcoding.blog.csdn.net "zhuxiongxian的csdn blog")
-
-**Github**： <https://github.com/xiongxianzhu>
-
-**juejin**： [@zhuxiongxian](https://juejin.im/user/5848e5f161ff4b006cb4a534)
-
-**WeiBo**: [@zhuxiongxian](http://weibo.com/929679459)
-
-**Facebook**: [@zhuxiongxian](https://www.facebook.com/xiongxian.zhu)
-
-**Twitter**: [@zhuxiongxian](https://twitter.com/xiongxianzhu)
-
-**bilibili**: [@xxcoding](https://space.bilibili.com/200731874)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
