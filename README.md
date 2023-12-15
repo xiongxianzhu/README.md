@@ -26,7 +26,7 @@
 
 ## Profile
 
-<img src="http://qiniu.zhuxiongxian.com/bg000001.jpg" alt="banner">
+<img src="http://qiniu.zhuxiongxian.cc/bg000001.jpg" alt="banner">
 
 I am a software engineer who is passionate about making open source code more accessible, creating technologies that improve people's standards, and building communities.
 
